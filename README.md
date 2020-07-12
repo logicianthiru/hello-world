@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Friends!
+
+I'm Thiru. I love programming more than anything else!
